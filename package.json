@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@socket.io/admin-ui": "^0.5.1",
+    "cors": "^2.8.5",
+    "nodemon": "^3.1.10",
+    "socket.io": "^4.8.1"
+  },
+  "name": "socket.io",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
